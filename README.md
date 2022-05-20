@@ -1,4 +1,5 @@
 # unsupervised-machine-learning
+## Background
 Predicting cryptocurrency clusters as a financial consultant in an advisory service team, for an investment banking client interested in starting a new cryptocurrency investment portfolio for their customers.
 
 ## Ask
@@ -15,10 +16,14 @@ Predicting cryptocurrency clusters as a financial consultant in an advisory serv
 * convert all data to numerics
 * standardize dataset
 
+### t-sne
+[T-SNE](https://github.com/cc-christin/unsupervised-machine-learning/blob/main/tsne.png)
+
 ### Cluster Analysis with k-Means
 * created elbow plot to id best number of clusters
 * use for loop to determine inertia for each k between 1 and 10
 * elbow plot shows decline in cryptocurrencies without any specific clusterings
+
 
 ### Recommendation
 Based on currently available data, we would be apprehensive to recommend any cryptocurrencies for investment as definitive clusters could not be determined. The k-mean elbow curve shows a steady decline without any notable clusters. The t-sne on the other hand, has a clustering of unlabeled cyrptocurriences and a spaced out distirbution of others cryptocurrencies.

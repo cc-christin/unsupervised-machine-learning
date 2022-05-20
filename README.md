@@ -25,7 +25,7 @@ Predicting cryptocurrency clusters as a financial consultant in an advisory serv
 * elbow plot shows decline in cryptocurrencies without any specific clusterings
 
 ### elbow
-![elbow](https://github.com/cc-christin/unsupervised-machine-learning/blob/main/elbow.png)
+![elbow](https://github.com/cc-christin/unsupervised-machine-learning/blob/main/Images/elbow.png)
 
 ### Recommendation
 Based on currently available data, we would be apprehensive to recommend any cryptocurrencies for investment as definitive clusters could not be determined. The k-mean elbow curve shows a steady decline without any notable clusters. The t-sne on the other hand, has a clustering of unlabeled cyrptocurriences and a spaced out distirbution of others cryptocurrencies.

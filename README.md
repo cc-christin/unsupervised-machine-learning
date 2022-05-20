@@ -17,7 +17,7 @@ Predicting cryptocurrency clusters as a financial consultant in an advisory serv
 * standardize dataset
 
 ### t-sne
-![T-SNE](https://github.com/cc-christin/unsupervised-machine-learning/blob/main/tsne.png)
+![T-SNE](https://github.com/cc-christin/unsupervised-machine-learning/blob/main/Images/tsne.png)
 
 ### Cluster Analysis with k-Means
 * created elbow plot to id best number of clusters
